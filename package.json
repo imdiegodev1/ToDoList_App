@@ -39,8 +39,7 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.0.0",
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://github.io/imdiegodev1/ToDoList_App"
+  "homepage": "https://imdiegodev1.github.io/ToDoList_App"
 }
