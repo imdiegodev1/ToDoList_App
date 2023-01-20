@@ -10,7 +10,7 @@ function TodoCounter() {
 
     return (
         <h2 className="TodoCounter">
-          Has completado {completedTodos} de {totalTodos} TODOS
+          you have completed {completedTodos} out of {totalTodos} TODOS!
         </h2>
     );
 }

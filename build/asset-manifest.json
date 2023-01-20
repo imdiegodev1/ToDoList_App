@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/imdiegodev1/ToDoList_App/static/css/main.d9f44df2.css",
-    "main.js": "/imdiegodev1/ToDoList_App/static/js/main.7952547f.js",
-    "index.html": "/imdiegodev1/ToDoList_App/index.html",
-    "main.d9f44df2.css.map": "/imdiegodev1/ToDoList_App/static/css/main.d9f44df2.css.map",
-    "main.7952547f.js.map": "/imdiegodev1/ToDoList_App/static/js/main.7952547f.js.map"
+    "main.css": "/ToDoList_App/static/css/main.d9f44df2.css",
+    "main.js": "/ToDoList_App/static/js/main.7952547f.js",
+    "index.html": "/ToDoList_App/index.html",
+    "main.d9f44df2.css.map": "/ToDoList_App/static/css/main.d9f44df2.css.map",
+    "main.7952547f.js.map": "/ToDoList_App/static/js/main.7952547f.js.map"
   },
   "entrypoints": [
     "static/css/main.d9f44df2.css",
